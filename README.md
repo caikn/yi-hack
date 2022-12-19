@@ -211,8 +211,8 @@ test/                          Yi hack folder
 equip_test.sh
 -------------
 to disable the motion detection and recording, comment out the following two lines:
-./record_event &
-./mp4record 60 &
+* ./record_event &
+* ./mp4record 60 &
 
 
 check_motion.sh
